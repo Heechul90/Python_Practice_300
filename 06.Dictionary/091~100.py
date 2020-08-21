@@ -65,7 +65,7 @@ print(inventory)
 # icecream = {'탱크보이': 1200, '폴라포': 1200, '빵빠레': 1800, '월드콘': 1500, '메로나': 1000}
 icecream = {'탱크보이': 1200, '폴라포': 1200, '빵빠레': 1800, '월드콘': 1500, '메로나': 1000}
 my_key_list = list(icecream.keys())
-print(type(my_list), my_list)
+print(type(my_key_list), my_key_list)
 
 
 # 096 딕셔너리 values() 메서드
